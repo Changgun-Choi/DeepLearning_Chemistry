@@ -1,4 +1,6 @@
-﻿# DeepChem
+# For research and industrial implemenaton purpose (Working Student at Merck)
+
+## DeepChem
 
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deepchem/badges/version.svg)](https://anaconda.org/conda-forge/deepchem)
 [![PyPI version](https://badge.fury.io/py/deepchem.svg)](https://pypi.org/project/deepchem/)
