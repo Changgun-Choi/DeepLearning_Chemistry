@@ -1,6 +1,5 @@
-# For research and industrial implemenaton purpose 
-- Cloned the original repository
-# (Related to Working Student at Merck)
+# For research and industrial implemenaton purpose (Cloned the original repository)
+### (Related to Work at Merck)
 
 ## DeepChem
 
